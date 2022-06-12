@@ -29,3 +29,5 @@ export const ThumbNail = forwardRef(({ ...otherProps }, ref) => {
     </div>
   )
 })
+
+ThumbNail.displayName = 'ThumbNail'
