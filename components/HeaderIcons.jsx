@@ -1,5 +1,3 @@
-import React from 'react'
-
 export const HeaderIcons = ({ title, Icon }) => {
   return (
     <div className='cursor-pointer flex flex-col items-center group w-12 sm:w-20 hover:text-white'>

@@ -22,6 +22,7 @@ export default function Home({ result }) {
   )
 }
 
+// Getting all the movies
 export async function getServerSideProps(context) {
   const genre = context.query.genre;
 

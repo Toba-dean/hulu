@@ -4,3 +4,9 @@
 
 ## 📣 Summary
 A fully responsive Hulu dashboard clone built based on the real Hulu app, it is built using the powerful Next JS framework, and tailwind CSS, uses both flexbox and grid layout system.
+
+## Technologies Used
+* Next JS.
+* React-Flip-Move.
+* Tailwind CSS.
+* Tailwind-Scrollbar-Hide.

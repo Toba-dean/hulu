@@ -22,10 +22,10 @@ export const Header = () => {
         <HeaderIcons title='ACCOUNT' Icon={UserIcon} />
       </div>
 
-      <Image 
-        src='https://links.papareact.com/ua6' 
-        width={200} 
-        height={100} 
+      <Image
+        src='https://links.papareact.com/ua6'
+        width={200}
+        height={100}
         className='object-contain'
       />
     </header>

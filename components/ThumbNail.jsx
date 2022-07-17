@@ -2,6 +2,7 @@ import Image from 'next/image';
 import { ThumbUpIcon, } from '@heroicons/react/outline';
 import { forwardRef } from 'react';
 
+// forwardRef passes ref from the component to one of its child.
 export const ThumbNail = forwardRef(({ ...otherProps }, ref) => {
 
   const BASE_PATH = 'https://image.tmdb.org/t/p/original/'
